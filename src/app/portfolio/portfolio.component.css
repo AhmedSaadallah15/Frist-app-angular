@@ -1,0 +1,45 @@
+
+
+.container-fluid
+{
+  padding: 0;
+  margin: 0;
+}
+h1{
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #212529;
+}
+.line{
+  height: 4px;
+  width: 80px;
+  background-color: rgb(44, 62, 80);
+}
+
+.pic img{
+  border-radius: 15px;
+}
+
+.layer{
+  background-color: #1abc9ce6;
+  opacity: 0;
+  cursor: pointer;
+  transition: 0.5s opacity;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 15px;
+}
+
+.pic:hover .layer{
+  opacity: 1;
+}
+
+.openImages{
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.8);
+}

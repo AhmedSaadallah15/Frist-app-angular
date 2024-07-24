@@ -1,0 +1,26 @@
+.container-fluid
+{
+  padding: 0;
+  margin: 0;
+}
+h1{
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #212529;
+}
+.line{
+  height: 4px;
+  width: 80px;
+  background-color: rgb(44, 62, 80);
+}
+
+.form-control{
+  border: none;
+  border-bottom: 1px solid #dee2e6;
+  box-shadow: none;
+}
+
+.btn-success{
+  background-color: #1abc9c;
+  border: none;
+}

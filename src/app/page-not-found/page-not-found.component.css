@@ -1,0 +1,24 @@
+
+
+
+
+.container-fluid
+{
+  padding: 0;
+  margin: 0;
+  background-color: #1abc9c;
+}
+h1{
+  font-size: 5rem;
+  font-weight: 700;
+  padding-top: 6rem;
+  color: #212529;
+}
+.line{
+  height: 4px;
+  width: 80px;
+  background-color: rgb(44, 62, 80);
+}
+
+
+

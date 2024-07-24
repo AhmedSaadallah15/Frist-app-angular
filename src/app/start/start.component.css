@@ -1,0 +1,24 @@
+
+
+.item img{
+  width: 250px;
+  padding-top: 2rem;
+}
+
+.item{
+  background-color: #1abc9c;
+}
+.container-fluid
+{
+  padding: 0;
+  margin: 0;
+}
+.item h1{
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.line{
+  height: 4px;
+  width: 80px;
+  background-color: white;
+}
